@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Averta';
+  src:
+    url('AvertaCY-Light.woff2') format('woff2'),
+    url('AvertaCY-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Averta';
+  src:
+    url('AvertaCY-Regular.woff2') format('woff2'),
+    url('AvertaCY-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Averta';
+  src:
+    url('AvertaCY-Semibold.woff2') format('woff2'),
+    url('AvertaCY-Semibold.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Averta';
+  src:
+    url('AvertaCY-Bold.woff2') format('woff2'),
+    url('AvertaCY-Bold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Averta';
+  src:
+    url('AvertaCY-Extrabold.woff2') format('woff2'),
+    url('AvertaCY-Extrabold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
